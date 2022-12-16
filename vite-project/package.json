@@ -8,5 +8,10 @@
   },
   "devDependencies": {
     "vite": "^2.6.4"
-  }
+  },
+  "main": "menu.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
